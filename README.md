@@ -1,7 +1,7 @@
 # Example for SRT stats printing using GStreamer
 ## General
 * The working bitrate estimation SRT stream (version 1.4.0) is accessible on port 8887.
-* The bitrate estimation that does not (SRT version 1.4.1) work is available on port 8888.
+* The bitrate estimation that does not work (SRT version 1.4.1) is available on port 8888.
 
 ## Running
 1. Run `docker-compose up`
